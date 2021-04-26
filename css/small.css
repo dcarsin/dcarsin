@@ -39,7 +39,7 @@ header, main, footer {
       
    }
   
-  #footerSection {
+  footer section {
     border-radius: 0 0 15px 15px;
     display: grid;  
     grid-template-columns: 1fr 1fr;
